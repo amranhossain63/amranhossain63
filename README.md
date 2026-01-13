@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I’m Amran Hossain
 
-<!--
-**amranhossain63/amranhossain63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Researcher (Thesis Submitted) | 🤖 Machine Learning & Deep Learning  
+🧠 Healthcare AI | 🗣️ Speech & Audio Processing
 
-Here are some ideas to get you started:
+I work on applied machine learning, speech signal processing, and healthcare, with a focus on building data-driven systems for neurological disorder detection, particularly Parkinson’s disease from voice and speech data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively seeking opportunities in Data Science, Machine Learning, and Applied AI, where I can translate research into scalable, real-world solutions.
+
+### 🔍 What I Do
+- Develop end-to-end ML pipelines for audio and speech data
+- Extract and analyze acoustic biomarkers (MFCC, GTCC, pitch, jitter, shimmer)
+- Build and evaluate ML & DL models (SVM, Random Forest, XGBoost, CNN, LSTM)
+- Apply statistical analysis and cross-validation on healthcare datasets
+- Focus on model interpretability and practical deployment
+
+### 🛠️ Tech Stack
+- Python, SQL
+- Scikit-learn, PyTorch, TensorFlow
+- Librosa, Praat (Parselmouth), Mel-Spectrograms
+- Pandas, NumPy, Feature Engineering
+- Tools: Git, Linux, Jupyter, Docker (basic)
+
+### 📌 Featured Projects
+🧠 Parkinson’s Disease Detection from Speech
+- Built ML and DL models using acoustic and spectral features
+- Implemented speaker diarization and silence-based segmentation
+- Achieved strong performance using Accuracy, F1-score, ROC-AUC
+- Tech: Python, Praat, Librosa, PyTorch
+
+🗣️ Spontaneous Dialogue Analysis for Healthcare
+
+- Processed multi-speaker clinical conversations
+- Automated feature extraction and ML-ready datasets (CSV pipelines)
+- Focused on robust evaluation and reproducibility
+
+- Acoustic Feature Engineering for Healthcare AI
+- CNN Models for Audio Classification
+
+📫 **LinkedIn:** https://www.linkedin.com/in/mohammad-amran-hossain-data63/
