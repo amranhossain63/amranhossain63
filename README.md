@@ -10,7 +10,7 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 ### 🔍 What I Do
 - Develop end-to-end ML pipelines for audio and speech data
 - Extract and analyze acoustic biomarkers (MFCC, GTCC, pitch, jitter, shimmer)
-- Build and evaluate ML & DL models (SVM, Random Forest, XGBoost, CNN, LSTM)
+- Build and evaluate ML & DL models (SVM, Random Forest, XGBoost, MLP, CNN)
 - Apply statistical analysis and cross-validation on healthcare datasets
 - Focus on model interpretability and practical deployment
 
@@ -22,13 +22,13 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 - Tools: Git, Linux, Jupyter, Docker (basic)
 
 ### 📌 Featured Projects
-🧠 Parkinson’s Disease Detection from Speech
+🧠 Parkinson’s Disease Detection from Speech and voice
 - Built ML and DL models using acoustic and spectral features
 - Implemented speaker diarization and silence-based segmentation
 - Achieved strong performance using Accuracy, F1-score, ROC-AUC
 - Tech: Python, Praat, Librosa, PyTorch
 
-🗣️ Spontaneous Dialogue Analysis for Healthcare
+🗣️ Spontaneous Dialogue Analysis for PD Detection
 
 - Processed multi-speaker clinical conversations
 - Automated feature extraction and ML-ready datasets (CSV pipelines)
