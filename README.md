@@ -18,7 +18,7 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 - Python, SQL
 - Scikit-learn, PyTorch, TensorFlow
 - Librosa, Praat (Parselmouth), Mel-Spectrograms
-- Pandas, NumPy, Feature Engineering
+- Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering
 - Tools: Git, Linux, Jupyter, Docker (basic)
 
 ### 📌 Featured Projects
