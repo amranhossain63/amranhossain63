@@ -3,7 +3,7 @@
 🎓 PhD Researcher | 🤖 Machine Learning & Deep Learning  
 🧠 Healthcare AI | 🗣️ Speech & Audio Processing
 
-I work on applied machine learning, speech signal processing, and healthcare, with a focus on building data-driven systems for neurological disorder detection, particularly Parkinson’s disease and Alzheimer’s disease from voice and speech data.
+I work on applied machine learning, speech signal processing, and healthcare applications, with a focus on building data-driven systems for neurological disorder detection, particularly Parkinson’s disease and Alzheimer’s disease from voice and speech data.
 
 I am actively seeking opportunities in Data Science, Machine Learning, and Applied AI, where I can translate research into scalable, real-world solutions.
 
