@@ -29,7 +29,6 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 - Tech: Python, Praat, Librosa, PyTorch
 
 🗣️ Spontaneous Dialogue Analysis for PD Detection
-
 - Processed multi-speaker clinical conversations
 - Automated feature extraction and ML-ready datasets (CSV pipelines)
 - Focused on robust evaluation and reproducibility
