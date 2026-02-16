@@ -30,7 +30,10 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 
 🗣️ Spontaneous Dialogue Analysis for PD Detection
 - Processed multi-speaker clinical conversations
+- Implemented speaker diarization and silence-based segmentation
 - Automated feature extraction and ML-ready datasets (CSV pipelines)
+- Achieved strong performance using Accuracy, F1-score, ROC-AUC
+- Tech: Python, Praat, Librosa, PyTorch
 - Focused on robust evaluation and reproducibility
 
 
