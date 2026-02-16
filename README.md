@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Amran Hossain
 
-🎓 PhD Researcher | 🤖 Machine Learning & Deep Learning  
+🎓 PhD Researcher |Data Science | 🤖 Machine Learning & Deep Learning  
 🧠 Healthcare AI | 🗣️ Speech & Audio Processing
 
 I work on applied machine learning, speech signal processing, and healthcare applications, with a focus on building data-driven systems for neurological disorder detection, particularly Parkinson’s disease and Alzheimer’s disease from voice and speech data.
