@@ -33,11 +33,8 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 - Implemented speaker diarization and silence-based segmentation
 - Automated feature extraction and ML-ready datasets (CSV pipelines)
 - Achieved strong performance using Accuracy, F1-score, ROC-AUC
-- Tech: Python, Praat, Librosa, PyTorch
 - Focused on robust evaluation and reproducibility
 
 
-- Acoustic Feature Engineering for Healthcare AI
-- CNN Models for PD daiagnosis form Audio signals
 
 📫 **LinkedIn:** https://www.linkedin.com/in/mohammad-amran-hossain-data63/
