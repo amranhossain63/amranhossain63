@@ -35,6 +35,7 @@ I am actively seeking opportunities in Data Science, Machine Learning, and Appli
 - Achieved strong performance using Accuracy, F1-score, ROC-AUC
 - Focused on robust evaluation and reproducibility
 
-
+##### Acoustic Feature Engineering for Healthcare AI
+##### CNN Models for PD daiagnosis form Audio signals
 
 📫 **LinkedIn:** https://www.linkedin.com/in/mohammad-amran-hossain-data63/
