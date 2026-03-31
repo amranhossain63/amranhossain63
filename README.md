@@ -51,6 +51,6 @@ Multimodal AI: Integrating diverse data streams to model disease trajectories.
 ##### Acoustic Feature Engineering for Healthcare AI
 ##### CNN Models for PD daiagnosis form Audio signals
 
-**I am currently open-sourcing components of my research and looking for opportunities in Applied AI and Data Science.**
+I am currently open-sourcing components of my research and looking for opportunities in Applied AI and Data Science.
 
 📫 **LinkedIn:** https://www.linkedin.com/in/mohammad-amran-hossain-data63/
